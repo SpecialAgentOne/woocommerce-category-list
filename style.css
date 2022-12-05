@@ -1,0 +1,25 @@
+.wrapper_thumb_list{
+	width: 100%;
+	float: center;
+
+}
+.title_thumb_list{
+	width: 100%;
+	float: left;
+	height: 50px;
+}
+.wrapper_thumb_list h3{
+	margin-left: 2%;
+	margin-top: 1%;
+}
+.single_cat_thumb_list{
+	width: 23%;
+	float: left;
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-top: 1%;
+}
+.cat_title_thumb_list{
+	width: 100%;
+	text-align: center;
+}
